@@ -21,7 +21,7 @@ Featuring:
 
 # The Case For Monorepos
 
-Imagine a scenario where you are building a suite of three React apps that share the same architecture, design patterns, components and styles. Now imaging making an update to a low-level component like a Button that is used in all three apps, as well as one sub-component.
+Imagine a scenario where you are building a suite of three React apps that share the same architecture, design patterns, components and styles. Now imagine making an update to a low-level component like a Button that is used in all three apps, as well as one sub-component.
 
 ![Multi React App Monorepo dependency graph](https://i.imgur.com/rPs8Vmf.png)
 
